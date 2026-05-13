@@ -59,7 +59,7 @@
     "links": {
       "internal": true,
       "unshared": false,
-      "wiki": false,
+      "wiki": true,
       "wikiDisplayText": false,
       "slugify": "disable",
       "unlink": false,
@@ -107,5 +107,5 @@
     },
     "dev": true
   },
-  "tabsId": "github-configuration"
+  "tabsId": "text-conversion"
 }
