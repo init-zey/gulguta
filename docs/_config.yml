@@ -1,0 +1,9 @@
+remote_theme: sighingnow/jekyll-gitbook
+title: 各各他林
+description: 被启示的国度
+
+syntax_highlighter_style: pastie
+toc:
+    enabled: true
+    h_min: 2
+    h_max: 3
