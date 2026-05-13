@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "9b08c43e737ee21e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e301e3f0f24ae3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac88619b0edb5e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "说明.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d567b44deac25880",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c253ad9132deb82",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1e4e13aed8220c55",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ac6a51d2b404ea54",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0b500249bc35efa8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "22b420c9040e5131",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dbc1806dcd1b1c52",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "说明.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1deb0fd08906f608",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "说明.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "161b309c9c0a5419",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "说明.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cac88619b0edb5e8",
+  "lastOpenFiles": [
+    "wiki索引.md",
+    "故事人物/蕾梅黛丝.md",
+    "地理/阿莱夫.md",
+    "地理/各各他林.md",
+    "理论科学/大瘟疫.md",
+    "理论科学/肉树.md",
+    "故事人物/疫病医生阿威罗伊.md",
+    "故事人物/颓废牧师瓦伦缇娜.md",
+    "故事人物/巴汝奇.md",
+    "主角.md",
+    "故事人物/吟游诗人帕特里克.md",
+    "故事人物/约翰内斯.md",
+    "故事人物/夏庞蒂埃.md",
+    "故事人物/门徒高朗古杰.md",
+    "故事人物/被解救的塞巴斯蒂安.md",
+    "背景人物/野蛮人奥雷良诺.md",
+    "背景人物/受膏者阿尔卡蒂奥.md",
+    "背景人物/七十二门徒.md",
+    "背景人物/那位医生.md",
+    "背景人物/马丁费耶罗.md",
+    "游戏机制/原案剧情大纲.md",
+    "文化/圣教.md",
+    "地理/神秘东方大陆.md",
+    "游戏机制/原创种族.md",
+    "物品/死人头约翰.md",
+    "文化/保礼派.md",
+    "Untitled",
+    "游戏机制",
+    "神学",
+    "物品",
+    "理论科学",
+    "故事人物",
+    "历史",
+    "文化",
+    "地理",
+    "背景人物"
+  ]
+}
